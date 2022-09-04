@@ -1,0 +1,4 @@
+#ActivityLogger configuration file
+general:
+  #Should ActivityLogger record player damage history?
+  recordPlayerDamage: true

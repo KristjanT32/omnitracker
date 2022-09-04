@@ -1,0 +1,4 @@
+name: "ActivityLogger"
+main: krisapps.omnitracker.OmniTracker
+version: 1.0
+description: "Log all of the stuff your players are doing."

@@ -1,0 +1,15 @@
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\OmniTracker.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\events\OnPlayerTeleportHandler.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\events\OnCommandHandler.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\managers\DamageHistoryLogManager.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\enums\OperationType.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\events\OnGamemodeChangeHandler.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\managers\ActivityLogManager.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\events\OnPlayerDamageReceivedHandler.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\events\PlayerJoinHandler.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\commands\RefreshConfigCommand.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\exceptions\DamageTargetNotMobException.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\exceptions\DamageTargetNotPlayerException.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\enums\LogRecordType.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\events\OnMessageSentHandler.java
+C:\Users\Arvuti\IdeaProjects\ActivityLogger\src\main\java\krisapps\omnitracker\events\PlayerLeaveHandler.java
